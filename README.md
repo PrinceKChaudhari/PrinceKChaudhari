@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
 
 # Prince K Chaudhari
@@ -64,4 +61,3 @@ I care about clean architecture, long-term thinking, and shipping consistently. 
 [![GitHub](https://img.shields.io/badge/GitHub-PRINCEKCHAUDHARI-181717?style=flat&logo=github)](https://github.com/PRINCEKCHAUDHARI)
 
 </div>
-```
