@@ -1,59 +1,44 @@
 <div align="center">
 
-# Prince K. Chaudhari
+# Hi, I'm Prince 👋
 
-Full-stack engineer working on distributed systems, AI infrastructure, and developer tools.
-
-[Website](https://yoursite.com) · [Writing](https://yoursite.com/writing) · [LinkedIn](https://linkedin.com/in/you) · [Email](mailto:you@domain.com)
+Student. Builder. Mostly building things I haven't finished yet.
 
 </div>
 
 ---
 
-## About
+## 🧠 About
 
-I build systems that are fast, reliable, and quietly useful. Currently focused on LLM infrastructure and open-source developer tooling.
-
-- 🔭 Building — a self-hosted vector database with sub-millisecond retrieval
-- 🌱 Learning — distributed consensus algorithms (Raft, Paxos)
-- 💬 Ask me about — Rust, Postgres internals, or ML inference optimization
-- 📫 Reach me — [you@domain.com](mailto:you@domain.com)
+- 🎓 Student, learning by building (the hard way, usually)
+- 🤫 Working on something bigger, currently in private
+- 🔍 Happiest when I'm figuring out how something works under the hood
+- ☕ Powered by coffee and side projects that refuse to end
 
 ---
 
-## Selected Work
+## 🛠️ Stack
 
-**[project-one](https://github.com/you/project-one)** — High-performance task queue for Python. 2.4k stars.
-A Redis-backed task queue with priority scheduling and automatic retries. Used in production by [notable companies].
+<div align="center">
 
-**[project-two](https://github.com/you/project-two)** — TypeScript SDK for building AI agents.
-Framework-agnostic primitives for tool use, memory, and streaming. 800+ weekly downloads.
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,git&perline=6" alt="Languages and frameworks" />
 
-**[project-three](https://github.com/you/project-three)** — CLI for managing Postgres migrations.
-Zero-config schema migrations with automatic rollback detection.
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,github,vscode&perline=6" alt="Tools and infrastructure" />
 
----
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,python,react,nextjs" alt="Languages and frameworks" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,aws,linux" alt="Infrastructure" />
-</p>
+</div>
 
 ---
 
-## Stats
+## 🔭 Currently
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PRINCEKCHAUDHARI&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&title_color=171717&icon_color=171717&text_color=525252&hide_title=true" alt="GitHub stats" />
-</p>
+- **Building:** something you'll see eventually 🤫
+- **Learning:** whatever I'm too stubborn to give up on this month
+- **Reading:** the docs, which is more reading than I expected
 
 ---
 
 <div align="center">
-<sub>Open to collaboration on open-source infrastructure projects.</sub>
+
+If you made it this far, the good stuff is in the commits.
+
 </div>
