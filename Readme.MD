@@ -1,44 +1,32 @@
-<div align="center">
+# Prince K Chaudhari
 
-# Hi, I'm Prince 👋
+Student. Intermediate. Currently building something insane.
 
-Student. Builder. Mostly building things I haven't finished yet.
+<br>
 
-</div>
+## Now
 
----
+**Building** — Private repo. Can't say. It's good though.
+**Learning** — Also classified. Sorry.
+**Status** — Head down, commits up.
 
-## 🧠 About
+<details>
+<summary>Click to reveal the secret project</summary>
+<br>
+Nice try.
+</details>
 
-- 🎓 Student, learning by building (the hard way, usually)
-- 🤫 Working on something bigger, currently in private
-- 🔍 Happiest when I'm figuring out how something works under the hood
-- ☕ Powered by coffee and side projects that refuse to end
+<br>
 
----
+## Stack
 
-## 🛠️ Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python" alt="Stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,linux,figma" alt="Tools" />
+</p>
 
-<div align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,git&perline=6" alt="Languages and frameworks" />
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,github,vscode&perline=6" alt="Tools and infrastructure" />
-
-</div>
-
----
-
-## 🔭 Currently
-
-- **Building:** something you'll see eventually 🤫
-- **Learning:** whatever I'm too stubborn to give up on this month
-- **Reading:** the docs, which is more reading than I expected
-
----
-
-<div align="center">
-
-If you made it this far, the good stuff is in the commits.
-
-</div>
+<sub>If you're reading this and you're not me — hi. You're early.</sub>
