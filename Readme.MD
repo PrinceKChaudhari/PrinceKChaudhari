@@ -1,24 +1,33 @@
-# Prince K Chaudhari
+<h1 align="center">Prince K Chaudhari</h1>
 
-Student. Intermediate. Currently building something insane.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Student.+Intermediate.;Currently+building+something+insane." alt="Typing SVG" />
+</p>
 
 <br>
 
 ## Now
 
-**Building** — Private repo. Can't say. It's good though.
-**Learning** — Also classified. Sorry.
-**Status** — Head down, commits up.
+### Building
+> Private repo. Can't say. It's good though.
+
+### Learning
+> Also classified. Sorry.
+
+### Status
+> Head down, commits up.
+
+<br>
 
 <details>
-<summary>Click to reveal the secret project</summary>
+<summary><b>Click to reveal the secret project</b></summary>
 <br>
-Nice try.
+
+### Nice try.
+
 </details>
 
 <br>
-
-
 
 ## Stack
 
@@ -44,4 +53,4 @@ Nice try.
 
 <br>
 
-<sub>If you're reading this and you're not me — hi. You're early.</sub>
+<p align="center"><sub>If you're reading this and you're not me — hi. You're early.</sub></p>
