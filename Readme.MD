@@ -18,14 +18,28 @@ Nice try.
 
 <br>
 
+
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,md" alt="Languages" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,linux,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,vite" alt="Web development" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,prisma" alt="Databases and data tools" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" alt="Development tools" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vercel,cloudflare,npm,pnpm,postman" alt="Design, deployment and tooling" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest,jest,selenium,githubactions,webpack,nginx" alt="Testing and infrastructure" />
+</p>
+
 
 <br>
 
