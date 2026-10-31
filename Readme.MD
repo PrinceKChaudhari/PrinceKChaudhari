@@ -22,23 +22,15 @@ Nice try.
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,md" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,md,react,nextjs,tailwind,nodejs,express,vite&perline=12" alt="Languages and frameworks" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,vite" alt="Web development" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,prisma,git,github,docker,linux,bash,vscode&perline=12" alt="Databases and development tools" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,prisma" alt="Databases and data tools" />
+  <img src="https://skillicons.dev/icons?i=figma,vercel,cloudflare,npm,pnpm,postman,vitest,jest,selenium,githubactions,webpack,nginx&perline=12" alt="Design, testing and infrastructure" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" alt="Development tools" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,vercel,cloudflare,npm,pnpm,postman" alt="Design, deployment and tooling" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=vitest,jest,selenium,githubactions,webpack,nginx" alt="Testing and infrastructure" />
-</p>
+
 
 
 <br>
