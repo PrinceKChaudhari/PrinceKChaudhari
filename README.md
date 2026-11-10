@@ -1,53 +1,66 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg" />
-  <img src="assets/profile/hero-light.svg" width="100%" alt="Prince K Chaudhari — independent builder. Building things worth using." />
-</picture>
-
-<a href="https://github.com/PrinceKChaudhari"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/button-github-dark.svg" /><img src="assets/profile/button-github-light.svg" width="23%" alt="GitHub" /></picture></a>&nbsp;<a href="https://bsky.app/profile/princekchaudhari.bsky.social"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/button-bluesky-dark.svg" /><img src="assets/profile/button-bluesky-light.svg" width="23%" alt="Bluesky" /></picture></a>&nbsp;<a href="https://instagram.com/Prince.K.Chaudhari"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/button-instagram-dark.svg" /><img src="assets/profile/button-instagram-light.svg" width="23%" alt="Instagram" /></picture></a>&nbsp;<a href="https://t.me/PrinceKChaudhari"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/button-telegram-dark.svg" /><img src="assets/profile/button-telegram-light.svg" width="23%" alt="Telegram" /></picture></a>
-
-</div>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/heading-currently-building-dark.svg" />
-  <img src="assets/profile/heading-currently-building-light.svg" width="100%" alt="Currently building" />
-</picture>
+<h1 align="center"><b>Prince K Chaudhari</b></h1>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/project-01-dark.svg" /><img src="assets/profile/project-01-light.svg" width="49%" alt="Private work — a product in active development" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/project-02-dark.svg" /><img src="assets/profile/project-02-light.svg" width="49%" alt="Unannounced — some things are better built quietly" /></picture>
+  Founder · Independent Builder<br>
+  Building things worth using.
 </p>
 
-<br />
+<p align="center">
+  <a href="https://github.com/PrinceKChaudhari"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile/buttons/github-light.svg"><img src="./assets/profile/buttons/github-dark.svg" alt="GitHub" height="38"></picture></a>
+  <a href="https://bsky.app/profile/princekchaudhari.bsky.social"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile/buttons/bluesky-light.svg"><img src="./assets/profile/buttons/bluesky-dark.svg" alt="Bluesky" height="38"></picture></a>
+  <a href="https://instagram.com/Prince.K.Chaudhari"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile/buttons/instagram-light.svg"><img src="./assets/profile/buttons/instagram-dark.svg" alt="Instagram" height="38"></picture></a>
+  <a href="https://t.me/PrinceKChaudhari"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile/buttons/telegram-light.svg"><img src="./assets/profile/buttons/telegram-dark.svg" alt="Telegram" height="38"></picture></a>
+</p>
+
+---
+
+## Currently Building
+
+<p>
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile/tiles/building-light.svg"><img src="./assets/profile/tiles/building-dark.svg" width="423" alt="Private project — actively building software"></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile/tiles/private-light.svg"><img src="./assets/profile/tiles/private-dark.svg" width="423" alt="Unannounced work — details remain private"></picture>
+</p>
+
+## Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/heading-toolbox-dark.svg" />
-  <img src="assets/profile/heading-toolbox-light.svg" width="100%" alt="Toolbox" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/stack-light.svg">
+  <img src="./assets/profile/stack-dark.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, PostgreSQL, Cloudflare, Git and others">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/toolbox-dark.svg" />
-  <img src="assets/profile/toolbox-light.svg" width="100%" alt="Languages, applications, data and infrastructure technologies" />
-</picture>
+<details>
+<summary><b>All technologies</b></summary>
+<br>
 
-<br />
+**Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/heading-activity-dark.svg" />
-  <img src="assets/profile/heading-activity-light.svg" width="100%" alt="GitHub activity" />
-</picture>
+TypeScript · JavaScript · Python · Kotlin · Dart · C · C++ · C# · Java · Ruby · Elixir
 
-<div align="center">
+**Frontend & mobile**
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceKChaudhari&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" width="49%" alt="GitHub contribution statistics" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKChaudhari&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Most used languages in public repositories" />
+React · React Native · Next.js · SolidJS · Tailwind CSS
 
-<sub>Activity widgets are provided by an external service and may be temporarily unavailable.</sub>
+**Backend & databases**
 
-<br />
-<br />
+Ruby on Rails · PostgreSQL · SQLite · MongoDB
 
-<sub>If you're reading this and you're not me — hi. You're early.</sub>
+**Infrastructure & tools**
 
-</div>
+Cloudflare · Git · GitHub · GitLab
+
+<sub>Things I build with, learn, or explore — not a claim of expertise in all of them.</sub>
+
+</details>
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceKChaudhari&show_icons=true&bg_color=211E1E&title_color=CFCECD&text_color=AAAAAA&icon_color=CFCECD&hide_border=true" width="49%" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKChaudhari&layout=compact&bg_color=211E1E&title_color=CFCECD&text_color=AAAAAA&hide_border=true" width="49%" alt="Top public repository languages">
+</p>
+
+<p align="center">
+  <sub>If you're reading this and you're not me — hi. You're early.</sub>
+</p>
