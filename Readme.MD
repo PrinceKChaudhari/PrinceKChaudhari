@@ -5,16 +5,19 @@ Student. Intermediate. Currently building something insane.
 
 <p>
   <a href="https://github.com/PrinceKChaudhari">
-    <img src="https://img.shields.io/badge/GitHub-211E1E?style=for-the-badge&logo=github&logoColor=CFCECD" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/808080" width="38" height="38" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://bsky.app/profile/princekchaudhari.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-211E1E?style=for-the-badge&logo=bluesky&logoColor=CFCECD" alt="Bluesky" />
+    <img src="https://cdn.simpleicons.org/bluesky/0085FF" width="38" height="38" alt="Bluesky" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/Prince.K.Chaudhari">
-    <img src="https://img.shields.io/badge/Instagram-211E1E?style=for-the-badge&logo=instagram&logoColor=CFCECD" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://t.me/PrinceKChaudhari">
-    <img src="https://img.shields.io/badge/Telegram-211E1E?style=for-the-badge&logo=telegram&logoColor=CFCECD" alt="Telegram" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="38" height="38" alt="Telegram" />
   </a>
 </p>
 
@@ -31,10 +34,10 @@ Student. Intermediate. Currently building something insane.
 <br>
 
 <details>
-<summary><b>Click to reveal the secret project</b></summary>
+<summary>Click to reveal the secret project</summary>
 <br>
 
-### Nice try.
+Nice try.
 
 </details>
 
@@ -42,31 +45,21 @@ Student. Intermediate. Currently building something insane.
 
 ## Stack
 
-<!-- Programming Languages -->
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs,java,go,rust,php,ruby,kotlin,swift,dart,lua&perline=15" alt="Programming Languages" />
 </p>
-
-<!-- Frontend Development -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,materialui,redux,vite&perline=15" alt="Frontend Development" />
 </p>
 
-<!-- Backend and Databases -->
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,graphql,prisma,postgres,mongodb,mysql,sqlite,redis,firebase,supabase&perline=15" alt="Backend and Databases" />
 </p>
 
-<!-- Developer Tools and DevOps -->
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,powershell,vscode,vim,neovim,postman,githubactions,jenkins,terraform&perline=15" alt="Developer Tools and DevOps" />
 </p>
-
-<!-- Cloud, Design and Testing -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,nginx,figma,photoshop,illustrator,blender,webpack,babel,jest,vitest&perline=15" alt="Cloud, Design and Testing" />
