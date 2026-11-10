@@ -6,13 +6,23 @@ Student. Intermediate. Currently building something insane.
 
 <p>
   <a href="https://github.com/PrinceKChaudhari">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/24292F/FFFFFF" height="42" width="42" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://x.com/PrinceKChaudhar">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/000000/FFFFFF" height="42" width="42" alt="X" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/Prince.K.Chaudhari">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram" height="42" width="42" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://bsky.app/profile/princekchaudhari.bsky.social">
+    <img src="https://cdn.simpleicons.org/bluesky" height="42" width="42" alt="Bluesky" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/PrinceKChaudhari">
+    <img src="https://cdn.simpleicons.org/telegram" height="42" width="42" alt="Telegram" />
   </a>
 </p>
 
