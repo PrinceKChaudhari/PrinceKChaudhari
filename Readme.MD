@@ -1,95 +1,77 @@
 
-<h1 align="center">Prince K Chaudhari</h1>
+# Prince K Chaudhari
 
-<p align="center">
-  Founder · Independent Builder
+Student. Intermediate. Currently building something insane.
+
+<p>
+  <a href="https://github.com/PrinceKChaudhari">
+    <img src="https://img.shields.io/badge/GitHub-211E1E?style=for-the-badge&logo=github&logoColor=CFCECD" alt="GitHub" />
+  </a>
+  <a href="https://bsky.app/profile/princekchaudhari.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-211E1E?style=for-the-badge&logo=bluesky&logoColor=CFCECD" alt="Bluesky" />
+  </a>
+  <a href="https://instagram.com/Prince.K.Chaudhari">
+    <img src="https://img.shields.io/badge/Instagram-211E1E?style=for-the-badge&logo=instagram&logoColor=CFCECD" alt="Instagram" />
+  </a>
+  <a href="https://t.me/PrinceKChaudhari">
+    <img src="https://img.shields.io/badge/Telegram-211E1E?style=for-the-badge&logo=telegram&logoColor=CFCECD" alt="Telegram" />
+  </a>
 </p>
 
-<p align="center">
-  <i>Building things worth using.</i>
+<br>
+
+## Now
+
+**Building** — Private repo. Can't say. It's good though.
+
+**Learning** — Also classified. Sorry.
+
+**Status** — Head down, commits up.
+
+<br>
+
+<details>
+<summary><b>Click to reveal the secret project</b></summary>
+<br>
+
+### Nice try.
+
+</details>
+
+<br>
+
+## Stack
+
+<!-- Programming Languages -->
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs,java,go,rust,php,ruby,kotlin,swift,dart,lua&perline=15" alt="Programming Languages" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/PrinceKChaudhari">GitHub</a> ·
-  <a href="https://bsky.app/profile/princekchaudhari.bsky.social">Bluesky</a> ·
-  <a href="https://instagram.com/Prince.K.Chaudhari">Instagram</a> ·
-  <a href="https://t.me/PrinceKChaudhari">Telegram</a>
+<!-- Frontend Development -->
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,materialui,redux,vite&perline=15" alt="Frontend Development" />
 </p>
 
----
+<!-- Backend and Databases -->
 
-## Currently Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Project 01
-
-**Private Development**
-
-Building something from the ground up.
-
-`Software` · `In Progress`
-
-</td>
-<td width="50%" valign="top">
-
-### Project 02
-
-**Classified**
-
-Not everything needs an announcement.
-
-`Research` · `Private`
-
-</td>
-</tr>
-</table>
-
----
-
-## Technologies
-
-**Languages**
-
-TypeScript · JavaScript · Python · Kotlin · Dart · Java · C · C++ · C# · Ruby · Elixir
-
-**Frontend & Mobile**
-
-React · React Native · Next.js · SolidJS · Tailwind CSS
-
-**Backend & Data**
-
-Ruby on Rails · PostgreSQL · SQLite · MongoDB
-
-**Infrastructure & Tools**
-
-Cloudflare · Git · GitHub · GitLab
-
-<sub>Technologies I work with, learn, or explore.</sub>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceKChaudhari&show_icons=true&hide_border=true&theme=transparent" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKChaudhari&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Top Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,graphql,prisma,postgres,mongodb,mysql,sqlite,redis,firebase,supabase&perline=15" alt="Backend and Databases" />
 </p>
 
----
+<!-- Developer Tools and DevOps -->
 
-## Elsewhere
-
-<p align="center">
-  <a href="https://bsky.app/profile/princekchaudhari.bsky.social">Bluesky</a> ·
-  <a href="https://instagram.com/Prince.K.Chaudhari">Instagram</a> ·
-  <a href="https://t.me/PrinceKChaudhari">Telegram</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,powershell,vscode,vim,neovim,postman,githubactions,jenkins,terraform&perline=15" alt="Developer Tools and DevOps" />
 </p>
 
----
+<!-- Cloud, Design and Testing -->
 
-<p align="center">
-  <sub>If you're reading this and you're not me — hi. You're early.</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,nginx,figma,photoshop,illustrator,blender,webpack,babel,jest,vitest&perline=15" alt="Cloud, Design and Testing" />
 </p>
+
+<br>
+
+<sub>If you're reading this and you're not me — hi. You're early.</sub>
