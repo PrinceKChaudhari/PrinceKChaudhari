@@ -1,56 +1,95 @@
+
 <h1 align="center">Prince K Chaudhari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Student.+Intermediate.;Currently+building+something+insane." alt="Typing SVG" />
+  Founder · Independent Builder
 </p>
 
-<br>
-
-## Now
-
-### Building
-> Private repo. Can't say. It's good though.
-
-### Learning
-> Also classified. Sorry.
-
-### Status
-> Head down, commits up.
-
-<br>
-
-<details>
-<summary><b>Click to reveal the secret project</b></summary>
-<br>
-
-### Nice try.
-
-</details>
-
-<br>
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs,java,go,rust,php,ruby,kotlin,swift,dart,lua&perline=15" alt="Programming Languages" />
+<p align="center">
+  <i>Building things worth using.</i>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,materialui,redux,vite&perline=15" alt="Frontend Development" />
+<p align="center">
+  <a href="https://github.com/PrinceKChaudhari">GitHub</a> ·
+  <a href="https://bsky.app/profile/princekchaudhari.bsky.social">Bluesky</a> ·
+  <a href="https://instagram.com/Prince.K.Chaudhari">Instagram</a> ·
+  <a href="https://t.me/PrinceKChaudhari">Telegram</a>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,graphql,prisma,postgres,mongodb,mysql,sqlite,redis,firebase,supabase&perline=15" alt="Backend and Databases" />
+---
+
+## Currently Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Project 01
+
+**Private Development**
+
+Building something from the ground up.
+
+`Software` · `In Progress`
+
+</td>
+<td width="50%" valign="top">
+
+### Project 02
+
+**Classified**
+
+Not everything needs an announcement.
+
+`Research` · `Private`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technologies
+
+**Languages**
+
+TypeScript · JavaScript · Python · Kotlin · Dart · Java · C · C++ · C# · Ruby · Elixir
+
+**Frontend & Mobile**
+
+React · React Native · Next.js · SolidJS · Tailwind CSS
+
+**Backend & Data**
+
+Ruby on Rails · PostgreSQL · SQLite · MongoDB
+
+**Infrastructure & Tools**
+
+Cloudflare · Git · GitHub · GitLab
+
+<sub>Technologies I work with, learn, or explore.</sub>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceKChaudhari&show_icons=true&hide_border=true&theme=transparent" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKChaudhari&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Top Languages" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,powershell,vscode,vim,neovim,postman,githubactions,jenkins,terraform&perline=15" alt="Developer Tools and DevOps" />
+---
+
+## Elsewhere
+
+<p align="center">
+  <a href="https://bsky.app/profile/princekchaudhari.bsky.social">Bluesky</a> ·
+  <a href="https://instagram.com/Prince.K.Chaudhari">Instagram</a> ·
+  <a href="https://t.me/PrinceKChaudhari">Telegram</a>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,nginx,figma,photoshop,illustrator,blender,webpack,babel,jest,vitest&perline=15" alt="Cloud, Design and Testing" />
+---
+
+<p align="center">
+  <sub>If you're reading this and you're not me — hi. You're early.</sub>
 </p>
-
-<br>
-
-<p align="center"><sub>If you're reading this and you're not me — hi. You're early.</sub></p>
