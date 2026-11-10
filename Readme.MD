@@ -15,7 +15,7 @@ Student. Intermediate. Currently building something insane.
     <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
   <a href="https://t.me/PrinceKChaudhari">
-    <img src="https://raw.githubusercontent.com/Marve10s/Marve10s/main/assets/buttons/telegram.svg" height="48" alt="Telegram" />
+    <img src="telegram.webp" height="48" width="48" alt="Telegram" />
   </a>
 </p>
 
