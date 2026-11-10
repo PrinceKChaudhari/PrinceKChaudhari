@@ -6,11 +6,11 @@ Student. Intermediate. Currently building something insane.
 
 <p>
   <a href="https://github.com/PrinceKChaudhari">
-    <img src="https://cdn.simpleicons.org/github/24292F/FFFFFF" height="42" width="42" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/181717" height="42" width="42" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://x.com/PrinceKChaudhar">
-    <img src="https://cdn.simpleicons.org/x/000000/FFFFFF" height="42" width="42" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/000000" height="42" width="42" alt="X" />
   </a>
   &nbsp;
   <a href="https://instagram.com/Prince.K.Chaudhari">
