@@ -14,9 +14,6 @@ Student. Intermediate. Currently building something insane.
   <a href="https://instagram.com/Prince.K.Chaudhari">
     <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
-  <a href="https://t.me/PrinceKChaudhari">
-    <img src="telegram.webp" height="48" width="48" alt="Telegram" />
-  </a>
 </p>
 
 
