@@ -8,14 +8,14 @@ Student. Intermediate. Currently building something insane.
   <a href="https://github.com/PrinceKChaudhari">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>
-  <a href="https://bsky.app/profile/princekchaudhari.bsky.social">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/bluesky.svg" height="48" alt="Bluesky" />
+  <a href="https://x.com/PrinceKChaudhar">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" />
   </a>
   <a href="https://instagram.com/Prince.K.Chaudhari">
     <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
   <a href="https://t.me/PrinceKChaudhari">
-    <img src="telegram.webp" />
+    <img src="https://raw.githubusercontent.com/Marve10s/Marve10s/main/assets/buttons/telegram.svg" height="48" alt="Telegram" />
   </a>
 </p>
 
